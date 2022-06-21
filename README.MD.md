@@ -13,3 +13,5 @@ e.g by id, by xpath etc)
 I have kept it simple just to run the main functionality of the app. I
 also automated the onboarding screens as everytime when I launch the app
 in the emulator, the onboarding screens get displayed.
+
+P.S I do know the crux of test automation, and if given a chance I will quickly learn and incorporate the best coding practices.
